@@ -1,0 +1,23 @@
+/*
+ *Name: [Griffin Curtis]
+ *UnityID: [gacurti3]
+ *Date: [2/15/19]
+ *Assignment: [Webpages]
+ *Description: [Creating Webpages]
+ */
+ 
+p {
+    font-family:Times;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+
+.table-border {
+    border: 1px solid #FFFFFF;
+}
+
+#photo-resize {
+    max-width:250px;
+	max-height: 300px;
+}
+
