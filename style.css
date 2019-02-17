@@ -1,13 +1,13 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [description]
+ *Name: [Griffin Curtis]
+ *UnityID: [gacurti3]
+ *Date: [2/17/2019]
+ *Assignment: [IA 5]
+ *Description: [HTML and Styling]
  */
 
-p {
-	property: value ;
+body {
+	background-color: #fefbd8;
 
 
   }
@@ -15,9 +15,9 @@ p {
 
 
 
-#id {
+#table {
 
-	property: value ;
+	border: 1px #000000;
 
 	}
 
